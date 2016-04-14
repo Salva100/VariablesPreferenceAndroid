@@ -1,0 +1,2 @@
+# VariablesPreferenceAndroid
+Save Preference variables
